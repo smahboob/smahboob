@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Google Bug Bounty Program with my academic advisor.
-- 🌱 I’m currently learning Human Computer Interaction.
-- 👯 I’m looking to collaborate on exciting open source projects around mobile or web development.
-- 💬 Ask me about Mobile/Web Development 
-- 📫 How to reach me: smahboob@fandm.edu https://www.linkedin.com/in/smahboob 
+- 📱 Pulished Apps:
+    - <a href="https://apps.apple.com/us/app/accountya/id1517712561" target="_blank">Accountya iOS</a>
+    - <a href="https://play.google.com/store/apps/details?id=com.fandm.saad.accountya" target="_blank">Accountya Android</a>
+    - <a href="https://play.google.com/store/apps/details?id=com.fandm.saad.hackerquiz" target="_blank">Hacker Quiz Android</a>
+- 👨‍💻 <a href="https://saadmahboob.com/" target="_blank">saadmahboob.com</a>
 - 😄 Pronouns: He/Him
 
