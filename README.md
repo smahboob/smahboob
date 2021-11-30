@@ -13,7 +13,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-        <a href="https://www.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android.png"/> </a> 
+        <a href="https://www.android.com/" target="_blank"> <i class="fa fa-android" aria-hidden="true"></i>/> </a> 
     <a href="https://www.flutter.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
