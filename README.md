@@ -10,10 +10,12 @@
 - 👨‍💻 Portfolio: <a href="https://saadmahboob.com/" target="_blank">saadmahboob.com</a>
 - 😄 Pronouns: He/Him
 
-## 🚀 Languages and Tools:
+## 🚀 Languages, Tools, and Frameworks:
 
 <p align="left"> 
         <a href="https://www.android.com/" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/android--v1.png"/> </a> 
+            <a href="https://developer.apple.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ios-logo.png"/> </a> 
+
     <a href="https://www.flutter.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
