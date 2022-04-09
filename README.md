@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing an open source macOS application to serve as a starting point for developers interested in bug bounty.
+- 🔭 I’m currently working on a tech startup and also pen testing on android applications to hunt a bug bounty.
 - 🔐 I recently finished working on <a href="https://github.com/fmresearchnovak/stigma" target="_blank">Stigma</a>, it is a Dynamic information flow tracking software for finding sensitive information leaks in Android.
 - 📱 Pulished Apps:
     - <a href="https://apps.apple.com/us/app/accountya/id1517712561">Accountya iOS</a>
