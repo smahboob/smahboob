@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a tech startup and also pen testing on android applications to hunt a bug bounty.
+- 🔭 I am currently working as a full time Full Stack developer.
+- 🔭 I have worked as a part time researcher to perform Android Penetration Testing for Bug Bounty.
 - 🔐 I recently finished working on <a href="https://github.com/fmresearchnovak/stigma" target="_blank">Stigma</a>, it is a Dynamic information flow tracking software for finding sensitive information leaks in Android.
 - 📱 Pulished Apps:
     - <a href="https://apps.apple.com/us/app/accountya/id1517712561">Accountya iOS</a>
