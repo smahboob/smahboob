@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently working as a full time Full Stack developer.
+- 🔭 I am currently working as a Full Stack developer.
 - 🔭 I have worked as a part time researcher to perform Android Penetration Testing for Bug Bounty.
 - 🔐 I recently finished working on <a href="https://github.com/fmresearchnovak/stigma" target="_blank">Stigma</a>, it is a Dynamic information flow tracking software for finding sensitive information leaks in Android.
 - 📱 Pulished Apps:
